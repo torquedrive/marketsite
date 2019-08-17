@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+npm-debug.log
+bower_components
+dist
+*.swp
+.cache
+.idea
+.babelrc
+.bowerrc
+.browserslistrc
+config.yml
+gulpfile.babel.js
+package-lock.json
+package.json
+yarn.lock
