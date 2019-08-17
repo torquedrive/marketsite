@@ -63,11 +63,18 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+// Global Styles
+
+body {
+	background: #606060;
+}
+
 // Top Bar Nav
 
 .topbar-responsive {
   background: $topbar-responsive-bg;
   padding: 1rem 1.5rem;
+  margin-top: 20px;
 
   .topbar-responsive-logo {
     color: $black;
